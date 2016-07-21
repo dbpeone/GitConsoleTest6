@@ -10,6 +10,7 @@ namespace GitConsoleTest6
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("this is in the test branch");
         }
     }
 }
